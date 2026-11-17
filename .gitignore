@@ -6,3 +6,4 @@ dist/
 build/
 coverage/
 backend/uploads/
+frontend/.git-backup/
